@@ -1,5 +1,8 @@
 # eleventy-plugin-ids
 
+> [!NOTE]
+> Eleventy 3.0.0 includes a new [`IdAttributePlugin`](https://www.11ty.dev/docs/plugins/id-attribute/). This official solution should be used if you don't need the extra features offered by this plugin like custom prefixes or formatters.
+
 @11ty plugin for adding ids to html headings and other elements
 
 ```html
